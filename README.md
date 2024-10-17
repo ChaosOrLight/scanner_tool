@@ -1,6 +1,8 @@
 # 混合加密之弱點分析工具
 ## 簡要說明
-## [bandit](https://github.com/PyCQA/bandit)
+## 內容說明
+* [測試檔案](https://github.com/ChaosOrLight/scanner_tool/tree/main/test)
+### [bandit](https://github.com/PyCQA/bandit)
 * 一款靜態掃描工具，由pyCQA團隊開發
 ## 架構圖
 <img src="https://github.com/user-attachments/assets/6334d82b-ff96-4098-a1ab-7ed3f976d5bc" width=700>
