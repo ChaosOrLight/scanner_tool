@@ -1,7 +1,10 @@
 # 混合加密之弱點分析工具
 ## 簡要說明
 ## 內容說明
-* [測試檔案](https://github.com/ChaosOrLight/scanner_tool/tree/main/test)
+1. sql injection
+2. command injection
+3. xss
+* [測試檔案連結](https://github.com/ChaosOrLight/scanner_tool/tree/main/test)
 ### [bandit](https://github.com/PyCQA/bandit)
 * 一款靜態掃描工具，由pyCQA團隊開發
 ## 架構圖
